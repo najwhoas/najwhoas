@@ -1,4 +1,4 @@
-# 🏚ᯓᡣ𐭩
+# 🏚🚶🏻‍♀️ᯓᡣ𐭩
 
 ## /Na•ju/
 ![Profile views](https://komarev.com/ghpvc/?username=najwhoas&color=blueviolet)
@@ -22,10 +22,9 @@
     <td>
       <h2>Naju is..</h2>
 
-- 🔭 currently working on: **[research](https://github.com/najwhoas/stressor-importance)**
+- 🔭 currently working on: **[thesis research](https://github.com/najwhoas/ux-evaluation)**
 - 🌱 currently learning: **NLPs**
-- 🎓 just completed: **[project](https://github.com/C241-AB02-Bizzagi)**
-- 🔮 living for: **2Ds**, **RADWIMPSes**, **YOASOBIes** and **memes**
+- 🔮 living for: **K-(s)**, **2Ds**, **RADWIMPSes**, **YOASOBIes** and **memes**
 <br>
     </td>
   </tr>
@@ -53,11 +52,10 @@
 
 - **[Aspectra](https://github.com/C241-AB02-Bizzagi)**: An web-based aspect and sentiment analyst of customer reviews, build with BERT and deep learning. Part of Bangkit 2024 as Company-track Capstone Project in field NLP. 
 - **[Stressor Importance](https://github.com/najwhoas/stressor-importance)**: A random forest model to find significant stressor in student's stress factors, build with gini-based RF Classifier.
-- **[Reviews Clusterization](https://github.com/najwhoas/#)**: [secret project🤫] Review-based user's experience clusterization.
 
 ---
 
-### Connect with Me
+### Get In Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/najwas)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/najooa)
@@ -65,6 +63,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najwasalsabie@example.com)
 
 
----
-
-### Have a good day! No hesitate to come back to this profile! 😊
+# 🚶🏻‍♀️ᯓ 🏚
