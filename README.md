@@ -1,6 +1,5 @@
 # 🏚🚶🏻‍♀️ᯓᡣ𐭩
 
-## /Na•ju/
 ![Profile views](https://komarev.com/ghpvc/?username=najwhoas&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/najwhoas?style=social)
 
@@ -15,22 +14,8 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=najwhoas&theme=radical" alt="GitHub Streak">
     </td>
   </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najwhoas&layout=compact&theme=radical" alt="Top Languages">
-    </td>
-    <td>
-      <h2>Naju is..</h2>
-
-- 🔭 currently working on: **[thesis research](https://github.com/najwhoas/ux-evaluation)**
-- 🌱 currently learning: **NLPs**
-- 🔮 living for: **K-(s)**, **2Ds**, **RADWIMPSes**, **YOASOBIes** and **memes**
-<br>
-    </td>
-  </tr>
 </table>
 
----
 
 ### Languages and Tools
 
@@ -48,10 +33,12 @@
 
 ---
 
-### Recent Projects
+Learn data and model development in business context, **Najwa**—know as **Naju**—is willing to has a lot on this _plate_. A typical ISTJ person that brings analytical and attention-to-detail, perfectionist sometimes.. _ups_. Give her favorite tubruk and her J-pop playlist, she'll work 24/7.
 
-- **[Aspectra](https://github.com/C241-AB02-Bizzagi)**: An web-based aspect and sentiment analyst of customer reviews, build with BERT and deep learning. Part of Bangkit 2024 as Company-track Capstone Project in field NLP. 
-- **[Stressor Importance](https://github.com/najwhoas/stressor-importance)**: A random forest model to find significant stressor in student's stress factors, build with gini-based RF Classifier.
+Her recent activities are..
+- 🔭 working on: **[thesis research](https://github.com/najwhoas/ux-evaluation)**
+- 🌱 learning: **NLPs**
+- 🔮 long term living for: **K-(s)**, **2Ds**, **RADWIMPSes**, **YOASOBIes** and **memes**
 
 ---
 
