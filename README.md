@@ -33,11 +33,11 @@
 
 ---
 
-Learn data and model development in business context, **Najwa**—know as **Naju**—is willing to has a lot on this _plate_. A typical ISTJ person that brings analytical and attention-to-detail, perfectionist sometimes.. _ups_. Give her favorite tubruk and her J-pop playlist, she'll work 24/7.
+Learn data and model development in business context, **Najwa**—me :D—is willing to has a lot on this _plate_. A typical ISTJ person that brings analytical and attention-to-detail, perfectionist sometimes.. _ups_. Give her favorite tubruk and her J-pop playlist, she'll work 24/7.
 
 Her recent activities are..
 - 🔭 working on: **[thesis research](https://github.com/najwhoas/ux-evaluation)**
-- 🌱 learning: **NLPs**
+- 🌱 learning: **NLPs, DSs**
 - 🔮 long term living for: **K-(s)**, **2Ds**, **RADWIMPSes**, **YOASOBIes** and **memes**
 
 ---
