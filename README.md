@@ -1,23 +1,10 @@
-# 🏚🚶🏻‍♀️ᯓᡣ𐭩
-
 ![Profile views](https://komarev.com/ghpvc/?username=najwhoas&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/najwhoas?style=social)
 
 ---
 
-<table style="border: none;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=najwhoas&show_icons=true&theme=radical" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=najwhoas&theme=radical" alt="GitHub Streak">
-    </td>
-  </tr>
-</table>
 
-
-### Languages and Tools
+### Lang n Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -33,12 +20,12 @@
 
 ---
 
-Learn data and model development in business context, **Najwa**—me :D—is willing to has a lot on this _plate_. A typical ISTJ person that brings analytical and attention-to-detail, perfectionist sometimes.. _ups_. Give her favorite tubruk and her J-pop playlist, she'll work 24/7.
+Learn data and model development in a business context; Najwa is willing to have much on this _plate_. A typical ISTJ person who brings analytical and attention-to-detail a perfectionist sometimes. Give her a glass of Tubruk, and she'll work 24/7.
 
-Her recent activities are..
+Her recent activities are.
 - 🔭 working on: **[thesis research](https://github.com/najwhoas/ux-evaluation)**
-- 🌱 learning: **NLPs, DSs**
-- 🔮 long term living for: **K-(s)**, **2Ds**, **RADWIMPSes**, **YOASOBIes** and **memes**
+- 🌱 learns NLP, DS, DA, BI
+- 🔮 enjoys K, J, 2D, and memes
 
 ---
 
@@ -47,7 +34,4 @@ Her recent activities are..
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/najwas)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/najooa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/njwaash)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najwasalsabie@example.com)
-
-
-# 🚶🏻‍♀️ᯓ 🏚
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najwasalsabie@gmail.com)
