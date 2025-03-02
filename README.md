@@ -20,12 +20,10 @@
 
 ---
 
-Learn data and model development in a business context; Najwa is willing to have much on this _plate_. A typical ISTJ person who brings analytical and attention-to-detail a perfectionist sometimes. Give her a glass of Tubruk, and she'll work 24/7.
+Learn data and model development in a business context; Najwa is willing to have much on this _plate_. Give her a glass of Tubruk, and she'll work 24/7.
 
 Her recent activities are.
-- 🔭 working on: **[thesis research](https://github.com/najwhoas/ux-evaluation)**
 - 🌱 learns NLP, DS, DA, BI
-- 🔮 enjoys K, J, 2D, and memes
 
 ---
 
